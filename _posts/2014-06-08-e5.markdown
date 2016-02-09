@@ -1,0 +1,14 @@
+---
+layout: post
+title: Episode 5
+date: '2014-06-08 00:00:00'
+categories: podcast s1
+permalink: /:categories/:title.html
+---
+
+###[PrE3!](http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e05_PrE3.mp3)
+This week on Sunshine and Frank we discuss Steam Early Access, before going into the games we are looking forward to seeing at the coming week's E3.
+
+<audio controls>
+  <source src="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e05_PrE3.mp3" 	type="audio/mpeg">
+</audio>

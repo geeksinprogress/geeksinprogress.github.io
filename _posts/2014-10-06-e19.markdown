@@ -1,0 +1,14 @@
+---
+layout: post
+title: Episode 19
+date: '2014-10-06 04:00:00'
+categories: podcast s1
+permalink: /:categories/:title.html
+---
+
+###[Aragorn Effs Up Everything: The Game](http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e19_AragornEffsUpEverything.mp3)
+This week on Sunshine and Frank: Matt loves Shadow of Mordor, Kurt plays Destiny, Microsoft demos "room alive", Smash Bros. 4 is released and more!
+
+<audio controls>
+  <source src="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e19_AragornEffsUpEverything.mp3" 	type="audio/mpeg">
+</audio>

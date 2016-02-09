@@ -1,0 +1,14 @@
+---
+layout: post
+title: Episode 10
+date: '2014-07-27 00:00:00'
+categories: podcast s1
+permalink: /:categories/:title.html
+---
+
+###[Being A Backwards Kid](http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e10_BeingABackwardsKid.mp3)
+This week on Sunshine and Frank: The consoles can't even handle Star Citizen, a new Thor hits comic books, Occulus Rift is a home for space sims, Super Smash Bros. characters get announced, and more. 
+
+<audio controls>
+  <source src="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e10_BeingABackwardsKid.mp3" 	type="audio/mpeg">
+</audio>

@@ -1,0 +1,15 @@
+---
+layout: post
+title: Episode 4
+date: '2014-06-01 00:00:00'
+categories: podcast s1
+permalink: /:categories/:title.html
+---
+
+###[It Might Be Your Mods!](http://files.podcast.geeksinprogress.com/files/podcasts/1/ItmightbeyourMods.mp3)
+This week on Sunshine and Frank we talk about the recent Nintendo news on Youtube, Watchdogs and some old classics.
+
+<audio controls>
+  <source src="http://files.podcast.geeksinprogress.com/files/podcasts/1/ItmightbeyourMods.mp3" 
+  type="audio/mpeg">
+</audio>

@@ -1,0 +1,14 @@
+---
+layout: post
+title: Episode 27
+date: '2014-12-29 05:00:00'
+categories: podcast s1
+permalink: /:categories/:title.html
+---
+
+###[Games Were So Much Cooler When I Was 14](http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e27_GamesWereMuchCooler.mp3)
+This week on Sunshine and Frank: Matt gets an Xbox One, Xbox Live and PSN get DDOS'd by the Lizard Squad, Halo 3 ODST's campaign is getting ported to Xbox One, and more.
+
+<audio controls>
+  <source src="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e27_GamesWereMuchCooler.mp3" 	type="audio/mpeg">
+</audio>

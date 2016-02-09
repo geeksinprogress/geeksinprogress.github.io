@@ -1,0 +1,14 @@
+---
+layout: post
+title: Episode 7
+date: '2014-06-22 00:00:00'
+categories: podcast s1
+permalink: /:categories/:title.html
+---
+
+###[A Very Obvious Skateboard Shaped Package](http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e07_SkateboardShapedPackage.mp3)
+This week on Sunshine and Frank: Quebec cuts tax breaks for game studios, Watchdogs gets a graphics mod, the Steam Summer Sale arrives, we discuss E3 promises and our favorite horror games, and more.
+
+<audio controls>
+  <source src="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e07_SkateboardShapedPackage.mp3" 	type="audio/mpeg">
+</audio>

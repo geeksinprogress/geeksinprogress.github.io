@@ -1,0 +1,14 @@
+---
+layout: post
+title: Episode 24
+date: '2014-12-01 05:00:00'
+categories: podcast s1
+permalink: /:categories/:title.html
+---
+
+###[Andy Dwyer, Dinosaur Hunter](http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e24_AndyDwyerDinoHunter.mp3)
+This week on Sunshine and Frank: trailers are released for Jurassic World and some other nerd movie, Nintendo patents emulators for its devices, controversy erupts over a map exploit in Dreamhack Winter's CS:GO tournament, and more; we discuss the future of consoles, new interfaces, and dedicated casters vs pro player casters in esports.
+
+<audio controls>
+  <source src="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e24_AndyDwyerDinoHunter.mp3" 	type="audio/mpeg">
+</audio>
