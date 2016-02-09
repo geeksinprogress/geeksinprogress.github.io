@@ -1,0 +1,14 @@
+---
+layout: post
+title: People Want Big!
+date: '2014-05-19 00:00:00'
+permalink: /:categories/:title.html
+---
+
+This week on Sunshine and Frank we dive into Star Citizen, Assassin's Creed and the next generation of consoles!  
+
+<audio controls>
+  <source src="http://files.podcast.geeksinprogress.com/files/podcasts/1/PeopleWantBig.mp3" type="audio/mpeg">
+</audio>
+
+[Download MP3](http://files.podcast.geeksinprogress.com/files/podcasts/1/PeopleWantBig.mp3)

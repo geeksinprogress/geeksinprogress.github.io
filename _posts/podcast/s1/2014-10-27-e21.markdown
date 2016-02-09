@@ -1,0 +1,14 @@
+---
+layout: post
+title: I Fed Bananas To Homeless People
+date: '2014-10-27 04:00:00'
+permalink: /:categories/:title.html
+---
+
+This week on Sunshine and Frank: Matt binges on board games and Munchkin Quest, while Chris spends the weekend in DC; new Smash Bros. characters get announced, Microsoft talks plans for Minecraft, Dark Souls switches from GFWL to Steamworks, and more!
+
+<audio controls>
+  <source src="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e21_BananasToHomelessPeople.mp3" 	type="audio/mpeg">
+</audio>
+
+[Download](http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e21_BananasToHomelessPeople.mp3)

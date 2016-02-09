@@ -1,0 +1,14 @@
+---
+layout: post
+title: It's Developed By Astronauts
+date: '2014-09-29 04:00:00'
+permalink: /:categories/:title.html
+---
+
+This week on Sunshine and Frank: Our shortest episode ever! :S Matt checks out The Vanishing of Ethan Carter, Blizzard cancels it's in-development MMO "Titan", Matt finishes Red Orchestra 2 bootcamp, and more.
+
+<audio controls>
+  <source src="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e18_DevelopedByAstronauts.mp3" 	type="audio/mpeg">
+</audio>
+
+[Download](http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e18_DevelopedByAstronauts.mp3)
