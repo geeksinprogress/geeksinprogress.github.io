@@ -1,0 +1,14 @@
+---
+layout: podcast
+title: It Might Be Your Mods!
+date: '2014-06-01 00:00:00'
+categories: podcast
+permalink: /:categories/:year/:title.html
+excerpt: 'Nintendo, Watchdogs, Halo'
+podcast: 'http://files.podcast.geeksinprogress.com/files/podcasts/1/ItmightbeyourMods.mp3'
+bytes: 50484186
+duration: '1:34:39'
+explicit: 'yes'
+---
+
+This week on Sunshine and Frank we talk about the recent Nintendo news on Youtube, Watchdogs and some old classics.

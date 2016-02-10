@@ -1,0 +1,18 @@
+---
+layout: podcast
+title: You, 3 Characters, and a Tree, and Some Stairs
+date: '2015-01-05 05:00:00'
+categories: podcast
+permalink: /:categories/:year/:title.html
+excerpt: 'Our gaming best and worst of 2014.'
+podcast: 'http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e28_2014InReview.mp3'
+bytes: 60296690
+duration: '2:04:53'
+explicit: 'yes'
+crew:
+    - Matt
+    - Kurt
+    - Chris
+---
+
+This week on Sunshine and Frank: We discuss the games we enjoyed playing in 2014, and the games we look forward to playing in the near future.

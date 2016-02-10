@@ -1,0 +1,18 @@
+---
+layout: podcast
+title: Andy Dwyer, Dinosaur Hunter
+date: '2014-12-01 05:00:00'
+categories: podcast
+permalink: /:categories/:year/:title.html
+excerpt: 'Star Wars VII, future consoles, pixelwalking, and more.'
+podcast: 'http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e24_AndyDwyerDinoHunter.mp3'
+bytes: 173149510
+duration: '1:28:54'
+explicit: 'yes'
+crew:
+    - Matt
+    - Kurt
+    - Chris
+---
+
+This week on Sunshine and Frank: trailers are released for Jurassic World and some other nerd movie, Nintendo patents emulators for its devices, controversy erupts over a map exploit in Dreamhack Winter's CS:GO tournament, and more; we discuss the future of consoles, new interfaces, and dedicated casters vs pro player casters in esports.

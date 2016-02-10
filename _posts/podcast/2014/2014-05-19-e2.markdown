@@ -1,0 +1,14 @@
+---
+layout: podcast
+title: People Want Big!
+date: '2014-05-19 00:00:00'
+categories: podcast
+permalink: /:categories/:year/:title.html
+excerpt: 'Star Citizen, Assassin Creed, Next Gen Consoles'
+podcast: 'http://files.podcast.geeksinprogress.com/files/podcasts/1/PeopleWantBig.mp3'
+bytes: 52240155
+duration: '1:41:21'
+explicit: 'yes'
+---
+
+This week we cover Star Citizen, Assassin's Creed (Spoilers), and the next Generation of Consoles.

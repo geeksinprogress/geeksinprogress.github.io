@@ -1,0 +1,17 @@
+---
+layout: podcast
+title: One Star! One Star! Terrible Game! AGHBFBPBP
+date: '2014-09-22 04:00:00'
+categories: podcast
+permalink: /:categories/:year/:title.html
+excerpt: 'Microsoft buys Minecraft, Destiny releases, GW2 gets September 2014 Feature Pack, and more.'
+podcast: 'http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e17_OneStarOneStar.mp3'
+bytes: 131397492
+duration: '1:07:40'
+explicit: 'yes'
+crew:
+    - Matt
+    - Chris
+---
+
+This week on Sunshine and Frank: Microsoft buys Minecraft, Destiny and Archeage are released, Microsoft tests video games played from the web browser, and Guild Wars 2 releases its September 2014 Feature Pack.

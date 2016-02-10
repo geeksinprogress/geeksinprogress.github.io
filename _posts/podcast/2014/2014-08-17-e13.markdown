@@ -1,0 +1,18 @@
+---
+layout: podcast
+title: Put It On Auto-Horsey
+date: '2014-08-17 00:00:00'
+categories: podcast
+permalink: /:categories/:year/:title.html
+excerpt: 'Gamescom, moral choice systems, and more.'
+podcast: 'http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e13_PutItOnAutoHorsey.mp3'
+bytes: 47515710
+duration: '1:38:59'
+explicit: 'yes'
+crew:
+    - Matt
+    - Kurt
+    - Chris
+---
+
+This week on Sunshine and Frank: Matt gets hooked on Hearthstone, Kurt puts it on Auto-horsey, and Moose disconnects and hopes no one notices. We discuss our favorite trailers from Gamescom (Quantum Break, Silent Hills, MGS 5, Star Citizen), military mecha anime, moral choice systems, the state of emulators, and more.

@@ -1,0 +1,19 @@
+---
+layout: podcast
+title: Bear Tactics
+date: '2014-07-13 00:00:00'
+categories: podcast
+permalink: /:categories/:year/:title.html
+excerpt: 'Space Hulk, Kinect, simulator games, and more.'
+podcast: 'http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e08_BearTactics.mp3'
+bytes: 35440640
+duration: '1:13:06'
+explicit: 'yes'
+crew:
+    - Matt
+    - Kaia
+    - Kurt
+    - Mike
+---
+
+This week on Sunshine and Frank: a new Space Hulk game gets announced, Occulus acquire Carbon Design Group; we discuss the state of the Kinect, speedruns, simulator games, and more.

@@ -1,0 +1,17 @@
+---
+layout: podcast
+title: We All Have Our Own Hole
+date: '2015-06-29 04:00:00'
+categories: podcast
+permalink: /:categories/:year/:title.html
+excerpt: 'E3 2015: Fallout 4, PR troubles, FFVII remake, and more.'
+bytes: 55781007
+duration: '1:55:28'
+explicit: 'yes'
+crew:
+    - Matt
+    - Kurt
+    - Chris
+---
+
+This week on Sunshine and Frank: E3 2015!  Bethesda's Fallout 4 gets annouced, Bungie's announcement suffers fallout, Dishonoured 2 gets revealed, FFVII gets a remake, we (finally) get a glimpse at what the Division is all about, and more!

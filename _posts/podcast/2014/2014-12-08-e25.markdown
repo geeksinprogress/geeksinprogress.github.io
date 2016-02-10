@@ -1,0 +1,18 @@
+---
+layout: podcast
+title: She's Learned How to Weaponize Her Aura
+date: '2014-12-08 05:00:00'
+categories: podcast
+permalink: /:categories/:year/:title.html
+excerpt: 'Multi-crew ships, new lightsabers, Child of Light, and more.'
+podcast: 'http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e25_WeaponizedHerAura.mp3'
+bytes: 150122846
+duration: '1:17:00'
+explicit: 'yes'
+crew:
+    - Matt
+    - Kaia
+    - Chris
+---
+
+This week on Sunshine and Frank: NJ is a wasteland, RSI talks multi-crew ships and customizable ship interiors, Street Fighter V is announced, Broken Age 2 is delayed to early 2015, Kaia (and Stephen Colbert) defend the new lightsaber, Chris gushes about Child of Light, and much more!

@@ -1,0 +1,18 @@
+---
+layout: podcast
+title: I AM the boarding craft!
+date: '2014-11-24 05:00:00'
+categories: podcast
+permalink: /:categories/:year/:title.html
+excerpt: 'WoW subscribers, RvB season 12, Far Cry 4, and more.'
+podcast: 'http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e23_IAmTheBoardingCraft.mp3'
+bytes: 183995431
+duration: '1:34:30'
+explicit: 'yes'
+crew:
+    - Matt
+    - Kurt
+    - Chris
+---
+
+This week on Sunshine and Frank: World of Warcraft gains back 2.6 million subscribers, Red vs Blue wraps up its 12th season, Far Cry 4 releases, and more; we discuss Star Citizen's damage model, permadeath, and what happens to your character when you get captured.

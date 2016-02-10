@@ -1,0 +1,19 @@
+---
+layout: podcast
+title: He's Not Marvelous, He's DC'ous
+date: '2015-02-09 05:00:00'
+categories: podcast
+permalink: /:categories/:year/:title.html
+excerpt: 'Netflix, Nintendo, SOE, and more.'
+podcast: 'http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e30_HeIsDCous.mp3'
+bytes: 34024643
+duration: '1:10:09'
+explicit: 'yes'
+crew:
+    - Matt
+    - Kaia
+    - Kurt
+    - Chris
+---
+
+This week on Sunshine and Frank: Matt loses his sniper rifle, Netflix is rumoured to be working on a Legend of Zelda TV series, Nintendo changes its Youtube policy, and more.

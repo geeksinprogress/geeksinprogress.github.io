@@ -1,0 +1,18 @@
+---
+layout: podcast
+title: A Very Obvious Skateboard Shaped Package
+date: '2014-06-22 00:00:00'
+categories: podcast
+permalink: /:categories/:year/:title.html
+excerpt: 'Watchdogs, E3 promises, horror games, and more.'
+podcast: 'http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e07_SkateboardShapedPackage.mp3'
+bytes: 29659136
+duration: '1:01:03'
+explicit: 'yes'
+crew:
+    - Matt
+    - Kurt
+    - Mike
+---
+
+This week on Sunshine and Frank: Quebec cuts tax breaks for game studios, Watchdogs gets a graphics mod, the Steam Summer Sale arrives, we discuss E3 promises and our favorite horror games, and more.
