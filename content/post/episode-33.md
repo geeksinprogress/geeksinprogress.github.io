@@ -1,0 +1,21 @@
++++
+author = "Chris Bennett"
+categories = ["Star Wars", "The Force Awakens"]
+date = 2016-02-01T05:00:00Z
+description = ""
+draft = false
+image = "http://geeksinprogress.com/files/podcasts/covers/s01e33_cover.jpg"
+slug = "episode-33"
+tags = ["Star Wars", "The Force Awakens"]
+title = "Episode 33"
+
++++
+
+![Episode 33](http://geeksinprogress.com/files/podcasts/covers/s01e33_cover.jpg)
+
+###[This Podcast is Worth...One Quarter Portion!](http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e33_OneQuarterPortion.mp3)
+The Sunshine and Frank Podcast is now the Geeks in Progress Podcast!  This week, we give our reviews of Star Wars: the Force Awakens, and discuss other movies releasing or announced in 2016.
+
+<audio controls>
+  <source src="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e33_OneQuarterPortion.mp3" 	type="audio/mpeg">
+</audio>
