@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social Gaming on Geeks in Progress</title>
+    <link>http://geeksinprogress.com/tags/social-gaming/</link>
+    <description>Recent content in Social Gaming on Geeks in Progress</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Geeks in Progress - All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 20 Jul 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://geeksinprogress.com/tags/social-gaming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Two Dollar Piece of Cardboard</title>
+      <link>http://geeksinprogress.com/episodes/episode-9/</link>
+      <pubDate>Sun, 20 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-9/</guid>
+      <description>This week on Sunshine and Frank: Civilization: Beyond Earth is announced, Crytek has financial trouble, a former Valve contractor posts a pessimistic view of the coming VR trend; we discuss Valiant Hearts, the PC graphics arms race, augmented reality and driving, the decline of online gaming communites, and more.</description>
+    </item>
+    
+  </channel>
+</rss>

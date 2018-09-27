@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Witch.tv on Geeks in Progress</title>
+    <link>http://geeksinprogress.com/tags/witch.tv/</link>
+    <description>Recent content in Witch.tv on Geeks in Progress</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Geeks in Progress - All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 10 Aug 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://geeksinprogress.com/tags/witch.tv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>We Can&#39;t Confirm Or Deny</title>
+      <link>http://geeksinprogress.com/episodes/episode-12/</link>
+      <pubDate>Sun, 10 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-12/</guid>
+      <description>This week on Sunshine and Frank: Matt is on vacation, Twitch.tv adopts a new Youtube-like audio recognition and take-down system, Crytek speaks publicly about its financial situation, Valve soft-launches Source Engine 2, preorders are down and digital sales are up; we discuss Twitch acquisition rumors, Jedi Academy mods, hudless games, and much more!</description>
+    </item>
+    
+  </channel>
+</rss>

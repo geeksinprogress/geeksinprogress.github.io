@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Watchdogs on Geeks in Progress</title>
+    <link>http://geeksinprogress.com/tags/watchdogs/</link>
+    <description>Recent content in Watchdogs on Geeks in Progress</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Geeks in Progress - All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 22 Jun 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://geeksinprogress.com/tags/watchdogs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Very Obvious Skateboard Shaped Package</title>
+      <link>http://geeksinprogress.com/episodes/episode-7/</link>
+      <pubDate>Sun, 22 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-7/</guid>
+      <description>This week on Sunshine and Frank: Quebec cuts tax breaks for game studios, Watchdogs gets a graphics mod, the Steam Summer Sale arrives, we discuss E3 promises and our favorite horror games, and more.</description>
+    </item>
+    
+    <item>
+      <title>It Might Be Your Mods!</title>
+      <link>http://geeksinprogress.com/episodes/episode-4/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-4/</guid>
+      <description>This week on Sunshine and Frank we talk about the recent Nintendo news on Youtube, Watchdogs and some old classics.</description>
+    </item>
+    
+  </channel>
+</rss>

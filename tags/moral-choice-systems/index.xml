@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moral Choice Systems on Geeks in Progress</title>
+    <link>http://geeksinprogress.com/tags/moral-choice-systems/</link>
+    <description>Recent content in Moral Choice Systems on Geeks in Progress</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Geeks in Progress - All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 17 Aug 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://geeksinprogress.com/tags/moral-choice-systems/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Put It On Auto-Horsey</title>
+      <link>http://geeksinprogress.com/episodes/episode-13/</link>
+      <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-13/</guid>
+      <description>This week on Sunshine and Frank: Matt gets hooked on Hearthstone, Kurt puts it on Auto-horsey, and Moose disconnects and hopes no one notices. We discuss our favorite trailers from Gamescom (Quantum Break, Silent Hills, MGS 5, Star Citizen), military mecha anime, moral choice systems, the state of emulators, and more.</description>
+    </item>
+    
+  </channel>
+</rss>

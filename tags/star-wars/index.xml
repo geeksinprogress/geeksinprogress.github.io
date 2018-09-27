@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Star Wars on Geeks in Progress</title>
+    <link>http://geeksinprogress.com/tags/star-wars/</link>
+    <description>Recent content in Star Wars on Geeks in Progress</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Geeks in Progress - All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 01 Feb 2016 05:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://geeksinprogress.com/tags/star-wars/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>This Podcast is Worth...One Quarter Portion!</title>
+      <link>http://geeksinprogress.com/episodes/episode-33/</link>
+      <pubDate>Mon, 01 Feb 2016 05:00:00 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-33/</guid>
+      <description>The Sunshine and Frank Podcast is now the Geeks in Progress Podcast! This week, we give our reviews of Star Wars: the Force Awakens, and discuss other movies releasing or announced in 2016.</description>
+    </item>
+    
+    <item>
+      <title>Blood, Sweat, and Midi-chlorians</title>
+      <link>http://geeksinprogress.com/episodes/episode-31/</link>
+      <pubDate>Mon, 23 Feb 2015 05:00:00 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-31/</guid>
+      <description>This week on Sunshine and Frank: Evolve gets released, Sony Online Entertainment gets sold to Daybreak, the &amp;ldquo;New 3DS&amp;rdquo; comes out, and we look forward to the new Star Wars.</description>
+    </item>
+    
+    <item>
+      <title>She&#39;s Learned How to Weaponize Her Aura</title>
+      <link>http://geeksinprogress.com/episodes/episode-25/</link>
+      <pubDate>Mon, 08 Dec 2014 05:00:00 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-25/</guid>
+      <description>This week on Sunshine and Frank: NJ is a wasteland, RSI talks multi-crew ships and customizable ship interiors, Street Fighter V is announced, Broken Age 2 is delayed to early 2015, Kaia (and Stephen Colbert) defend the new lightsaber, Chris gushes about Child of Light, and much more!</description>
+    </item>
+    
+    <item>
+      <title>Andy Dwyer, Dinosaur Hunter</title>
+      <link>http://geeksinprogress.com/episodes/episode-24/</link>
+      <pubDate>Mon, 01 Dec 2014 05:00:00 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-24/</guid>
+      <description>This week on Sunshine and Frank: trailers are released for Jurassic World and some other nerd movie, Nintendo patents emulators for its devices, controversy erupts over a map exploit in Dreamhack Winter&amp;rsquo;s CS:GO tournament, and more; we discuss the future of consoles, new interfaces, and dedicated casters vs pro player casters in esports.</description>
+    </item>
+    
+    <item>
+      <title>Our Little Podcast!</title>
+      <link>http://geeksinprogress.com/episodes/episode-1/</link>
+      <pubDate>Sun, 11 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-1/</guid>
+      <description>###Our Little Podcast!
+Join Frank and the crew on our first podcast as we talk about Oculus, MMO&amp;rsquo;s, Mech Warrior Online, and Star Wars!</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dayz on Geeks in Progress</title>
+    <link>http://geeksinprogress.com/tags/dayz/</link>
+    <description>Recent content in Dayz on Geeks in Progress</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Geeks in Progress - All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 15 Feb 2016 05:34:46 +0000</lastBuildDate>
+    
+	<atom:link href="http://geeksinprogress.com/tags/dayz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Galactic Ambulance</title>
+      <link>http://geeksinprogress.com/episodes/episode-34/</link>
+      <pubDate>Mon, 15 Feb 2016 05:34:46 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-34/</guid>
+      <description>This week on Geeks in Progress: Matt tells a story, Kurt tells a joke, Chris steals a bit from John Mulaney, The Division launches its closed beta, Steam begins its Lunar New Year sale, and a Kickstarter team blows its budget on hookers and drugs; we discuss the state of early access games, and the games we&amp;rsquo;ve played during the podcast&amp;rsquo;s hiatus.</description>
+    </item>
+    
+  </channel>
+</rss>

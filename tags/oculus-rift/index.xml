@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oculus Rift on Geeks in Progress</title>
+    <link>http://geeksinprogress.com/tags/oculus-rift/</link>
+    <description>Recent content in Oculus Rift on Geeks in Progress</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Geeks in Progress - All Rights Reserved.</copyright>
+    <lastBuildDate>Tue, 05 Apr 2016 12:40:48 +0000</lastBuildDate>
+    
+	<atom:link href="http://geeksinprogress.com/tags/oculus-rift/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>We&#39;re Not A Console...Yet...</title>
+      <link>http://geeksinprogress.com/episodes/episode-37/</link>
+      <pubDate>Tue, 05 Apr 2016 12:40:48 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-37/</guid>
+      <description>This week on Geeks in Progress: Batman fights Superman, rumors of Playstation 4.5 and Nintendo NX abound, Microsoft wants to cooperate on cross-platform play, The Division breaks sales records, and more!</description>
+    </item>
+    
+    <item>
+      <title>Mikey, Just Keep Pressing B.</title>
+      <link>http://geeksinprogress.com/episodes/episode-20/</link>
+      <pubDate>Mon, 13 Oct 2014 04:00:00 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-20/</guid>
+      <description>This week on Sunshine and Frank: Matt and Kaia go to Comic-Con, Chris gets hands-on time with the Oculus Rift, Star Citizen releases landing and planetside footage, Kaia plays Hyrule Warriors, and much more!</description>
+    </item>
+    
+  </channel>
+</rss>

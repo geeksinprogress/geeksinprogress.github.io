@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Room Alive on Geeks in Progress</title>
+    <link>http://geeksinprogress.com/tags/room-alive/</link>
+    <description>Recent content in Room Alive on Geeks in Progress</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Geeks in Progress - All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 06 Oct 2014 04:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://geeksinprogress.com/tags/room-alive/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aragorn Effs Up Everything: The Game</title>
+      <link>http://geeksinprogress.com/episodes/episode-19/</link>
+      <pubDate>Mon, 06 Oct 2014 04:00:00 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-19/</guid>
+      <description>This week on Sunshine and Frank: Matt loves Shadow of Mordor, Kurt plays Destiny, Microsoft demos &amp;ldquo;room alive&amp;rdquo;, Smash Bros. 4 is released and more!</description>
+    </item>
+    
+  </channel>
+</rss>

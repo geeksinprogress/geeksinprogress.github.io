@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ethan Carther on Geeks in Progress</title>
+    <link>http://geeksinprogress.com/tags/ethan-carther/</link>
+    <description>Recent content in Ethan Carther on Geeks in Progress</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Geeks in Progress - All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 29 Sep 2014 04:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://geeksinprogress.com/tags/ethan-carther/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>It&#39;s Developed By Astronauts</title>
+      <link>http://geeksinprogress.com/episodes/episode-18/</link>
+      <pubDate>Mon, 29 Sep 2014 04:00:00 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-18/</guid>
+      <description>This week on Sunshine and Frank: Our shortest episode ever!: S Matt checks out The Vanishing of Ethan Carter, Blizzard cancels it&amp;rsquo;s in-development MMO &amp;ldquo;Titan&amp;rdquo;, Matt finishes Red Orchestra 2 bootcamp, and more.</description>
+    </item>
+    
+  </channel>
+</rss>

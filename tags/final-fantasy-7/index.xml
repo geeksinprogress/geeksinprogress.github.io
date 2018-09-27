@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Final Fantasy 7 on Geeks in Progress</title>
+    <link>http://geeksinprogress.com/tags/final-fantasy-7/</link>
+    <description>Recent content in Final Fantasy 7 on Geeks in Progress</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Geeks in Progress - All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 29 Jun 2015 04:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://geeksinprogress.com/tags/final-fantasy-7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>We All Have Our Own Hole</title>
+      <link>http://geeksinprogress.com/episodes/episode-32/</link>
+      <pubDate>Mon, 29 Jun 2015 04:00:00 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-32/</guid>
+      <description>This week on Sunshine and Frank: E3 2015! Bethesda&amp;rsquo;s Fallout 4 gets annouced, Bungie&amp;rsquo;s announcement suffers fallout, Dishonoured 2 gets revealed, FFVII gets a remake, we (finally) get a glimpse at what the Division is all about, and more!</description>
+    </item>
+    
+  </channel>
+</rss>

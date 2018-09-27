@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nintendo on Geeks in Progress</title>
+    <link>http://geeksinprogress.com/tags/nintendo/</link>
+    <description>Recent content in Nintendo on Geeks in Progress</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Geeks in Progress - All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 09 Feb 2015 05:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://geeksinprogress.com/tags/nintendo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>He&#39;s Not Marvelous, He&#39;s DC&#39;ous</title>
+      <link>http://geeksinprogress.com/episodes/episode-30/</link>
+      <pubDate>Mon, 09 Feb 2015 05:00:00 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-30/</guid>
+      <description>This week on Sunshine and Frank: Matt loses his sniper rifle, Netflix is rumoured to be working on a Legend of Zelda TV series, Nintendo changes its Youtube policy, and more.</description>
+    </item>
+    
+    <item>
+      <title>Andy Dwyer, Dinosaur Hunter</title>
+      <link>http://geeksinprogress.com/episodes/episode-24/</link>
+      <pubDate>Mon, 01 Dec 2014 05:00:00 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-24/</guid>
+      <description>This week on Sunshine and Frank: trailers are released for Jurassic World and some other nerd movie, Nintendo patents emulators for its devices, controversy erupts over a map exploit in Dreamhack Winter&amp;rsquo;s CS:GO tournament, and more; we discuss the future of consoles, new interfaces, and dedicated casters vs pro player casters in esports.</description>
+    </item>
+    
+    <item>
+      <title>It Might Be Your Mods!</title>
+      <link>http://geeksinprogress.com/episodes/episode-4/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-4/</guid>
+      <description>This week on Sunshine and Frank we talk about the recent Nintendo news on Youtube, Watchdogs and some old classics.</description>
+    </item>
+    
+  </channel>
+</rss>

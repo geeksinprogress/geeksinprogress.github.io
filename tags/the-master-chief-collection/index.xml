@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Master Chief Collection on Geeks in Progress</title>
+    <link>http://geeksinprogress.com/tags/the-master-chief-collection/</link>
+    <description>Recent content in The Master Chief Collection on Geeks in Progress</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Geeks in Progress - All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 17 Nov 2014 05:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://geeksinprogress.com/tags/the-master-chief-collection/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sounds Like You Want to Go to a Rave, Dog</title>
+      <link>http://geeksinprogress.com/episodes/episode-22/</link>
+      <pubDate>Mon, 17 Nov 2014 05:00:00 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-22/</guid>
+      <description>This week on Sunshine and Frank: Halo: The MCC has multiplayer issues, CoD: Advanced Warfare releases (and is actually pretty good!), Assassin&amp;rsquo;s Creed Unity has technical issues, Matt buys a flight stick, Blizzard teases Overwatch and Legacy of the Void at Blizzcon, and more!</description>
+    </item>
+    
+  </channel>
+</rss>

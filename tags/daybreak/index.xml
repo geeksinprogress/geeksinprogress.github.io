@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daybreak on Geeks in Progress</title>
+    <link>http://geeksinprogress.com/tags/daybreak/</link>
+    <description>Recent content in Daybreak on Geeks in Progress</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Geeks in Progress - All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 23 Feb 2015 05:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://geeksinprogress.com/tags/daybreak/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blood, Sweat, and Midi-chlorians</title>
+      <link>http://geeksinprogress.com/episodes/episode-31/</link>
+      <pubDate>Mon, 23 Feb 2015 05:00:00 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-31/</guid>
+      <description>This week on Sunshine and Frank: Evolve gets released, Sony Online Entertainment gets sold to Daybreak, the &amp;ldquo;New 3DS&amp;rdquo; comes out, and we look forward to the new Star Wars.</description>
+    </item>
+    
+  </channel>
+</rss>

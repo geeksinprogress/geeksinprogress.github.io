@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Playstation 4.5 on Geeks in Progress</title>
+    <link>http://geeksinprogress.com/tags/playstation-4.5/</link>
+    <description>Recent content in Playstation 4.5 on Geeks in Progress</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Geeks in Progress - All Rights Reserved.</copyright>
+    <lastBuildDate>Tue, 05 Apr 2016 12:40:48 +0000</lastBuildDate>
+    
+	<atom:link href="http://geeksinprogress.com/tags/playstation-4.5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>We&#39;re Not A Console...Yet...</title>
+      <link>http://geeksinprogress.com/episodes/episode-37/</link>
+      <pubDate>Tue, 05 Apr 2016 12:40:48 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-37/</guid>
+      <description>This week on Geeks in Progress: Batman fights Superman, rumors of Playstation 4.5 and Nintendo NX abound, Microsoft wants to cooperate on cross-platform play, The Division breaks sales records, and more!</description>
+    </item>
+    
+  </channel>
+</rss>

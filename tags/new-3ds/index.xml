@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New 3ds on Geeks in Progress</title>
+    <link>http://geeksinprogress.com/tags/new-3ds/</link>
+    <description>Recent content in New 3ds on Geeks in Progress</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Geeks in Progress - All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 23 Feb 2015 05:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://geeksinprogress.com/tags/new-3ds/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blood, Sweat, and Midi-chlorians</title>
+      <link>http://geeksinprogress.com/episodes/episode-31/</link>
+      <pubDate>Mon, 23 Feb 2015 05:00:00 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-31/</guid>
+      <description>This week on Sunshine and Frank: Evolve gets released, Sony Online Entertainment gets sold to Daybreak, the &amp;ldquo;New 3DS&amp;rdquo; comes out, and we look forward to the new Star Wars.</description>
+    </item>
+    
+    <item>
+      <title>Damn it, Bobby! Shoulder Buttons?</title>
+      <link>http://geeksinprogress.com/episodes/episode-15/</link>
+      <pubDate>Sun, 31 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-15/</guid>
+      <description>This week on Sunshine and Frank: A buyout of Twitch is (actually) confirmed, a Youtuber gets &amp;ldquo;swatted&amp;rdquo;, Star Citizen has a free trial, Nintendo announces a New 3DS, and Planetary Annihilation gets a release date. We discuss PC Gamer&amp;rsquo;s top 10 PC games, the appeal of Archeage, and more.</description>
+    </item>
+    
+  </channel>
+</rss>

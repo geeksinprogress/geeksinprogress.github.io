@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dark Souls on Geeks in Progress</title>
+    <link>http://geeksinprogress.com/tags/dark-souls/</link>
+    <description>Recent content in Dark Souls on Geeks in Progress</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Geeks in Progress - All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 05 Jan 2015 05:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://geeksinprogress.com/tags/dark-souls/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>You, 3 Characters, and a Tree, and Some Stairs</title>
+      <link>http://geeksinprogress.com/episodes/episode-28/</link>
+      <pubDate>Mon, 05 Jan 2015 05:00:00 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-28/</guid>
+      <description>This week on Sunshine and Frank: We discuss the games we enjoyed playing in 2014, and the games we look forward to playing in the near future.</description>
+    </item>
+    
+    <item>
+      <title>I Fed Bananas To Homeless People</title>
+      <link>http://geeksinprogress.com/episodes/episode-21/</link>
+      <pubDate>Mon, 27 Oct 2014 04:00:00 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-21/</guid>
+      <description>This week on Sunshine and Frank: Matt binges on board games and Munchkin Quest, while Chris spends the weekend in DC; new Smash Bros. characters get announced, Microsoft talks plans for Minecraft, Dark Souls switches from GFWL to Steamworks, and more!</description>
+    </item>
+    
+    <item>
+      <title>Earn Your Way!</title>
+      <link>http://geeksinprogress.com/episodes/episode-3/</link>
+      <pubDate>Mon, 26 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-3/</guid>
+      <description>This week on Sunshine and Frank we talk about the latest update to Titanfall&amp;rsquo;s matchmaking! As well as a game review of Dark Souls 2 and how it stacks up against the old game!</description>
+    </item>
+    
+  </channel>
+</rss>

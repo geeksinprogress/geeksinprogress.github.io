@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ground Zeroes on Geeks in Progress</title>
+    <link>http://geeksinprogress.com/tags/ground-zeroes/</link>
+    <description>Recent content in Ground Zeroes on Geeks in Progress</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Geeks in Progress - All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 05 Jan 2015 05:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://geeksinprogress.com/tags/ground-zeroes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>You, 3 Characters, and a Tree, and Some Stairs</title>
+      <link>http://geeksinprogress.com/episodes/episode-28/</link>
+      <pubDate>Mon, 05 Jan 2015 05:00:00 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-28/</guid>
+      <description>This week on Sunshine and Frank: We discuss the games we enjoyed playing in 2014, and the games we look forward to playing in the near future.</description>
+    </item>
+    
+    <item>
+      <title>I Give You the Jericho...Times Six!</title>
+      <link>http://geeksinprogress.com/episodes/episode-26/</link>
+      <pubDate>Mon, 22 Dec 2014 05:00:00 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-26/</guid>
+      <description>This week on Sunshine and Frank: Respawn Entertainment&amp;rsquo;s lead hints future games will be on Steam, Mechwarrior Online finally releases its community warfare patch, the Steam Winter Sale is live, MGSV: Ground Zeroes releases, Metal Gear Online gets a trailer, and more; we discuss gamification and tabletop gaming.</description>
+    </item>
+    
+  </channel>
+</rss>

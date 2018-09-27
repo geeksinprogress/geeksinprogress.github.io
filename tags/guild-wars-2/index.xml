@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guild Wars 2 on Geeks in Progress</title>
+    <link>http://geeksinprogress.com/tags/guild-wars-2/</link>
+    <description>Recent content in Guild Wars 2 on Geeks in Progress</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Geeks in Progress - All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 14 Mar 2016 08:47:44 +0000</lastBuildDate>
+    
+	<atom:link href="http://geeksinprogress.com/tags/guild-wars-2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Oh God, You&#39;re Going To Be One of Those Smart House People!</title>
+      <link>http://geeksinprogress.com/episodes/episode-36/</link>
+      <pubDate>Mon, 14 Mar 2016 08:47:44 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-36/</guid>
+      <description>This week on Geeks in Progress: Microsoft is ending its fixed console hardware, The Division launches, Everquest Next is cancelled, Guild Wars 2&amp;rsquo;s game director leaves the company, and more; we discuss key resellers, and progression systems.</description>
+    </item>
+    
+    <item>
+      <title>That Time I Spent $65 On A Pretend Spaceship</title>
+      <link>http://geeksinprogress.com/episodes/episode-29/</link>
+      <pubDate>Mon, 26 Jan 2015 05:00:00 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-29/</guid>
+      <description>This week on Sunshine and Frank: H1Z1 launches in Early Access, Matt starts a Star Citizen stream, Guild Wars 2 and FFXIV get expansions, Elder Scrolls Online goes buy-to-play; we discuss zombie survival games, betting in esports, and more.</description>
+    </item>
+    
+    <item>
+      <title>One Star! One Star! Terrible Game!  AGHBFBPBP</title>
+      <link>http://geeksinprogress.com/episodes/episode-17/</link>
+      <pubDate>Mon, 22 Sep 2014 04:00:00 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-17/</guid>
+      <description>This week on Sunshine and Frank: Microsoft buys Minecraft, Destiny and Archeage are released, Microsoft tests video games played from the web browser, and Guild Wars 2 releases its September 2014 Feature Pack.</description>
+    </item>
+    
+  </channel>
+</rss>

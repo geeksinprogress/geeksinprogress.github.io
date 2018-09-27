@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+&lt;?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+    <atom:link href="http://geeksinprogress.com/episodes/" rel="self" type="application/rss+xml" />
+    <title>Arrested DevOps</title>
+    <link>http://geeksinprogress.com/episodes/</link>
+    <language>en-us</language>
+    <copyright>&#xA9; &amp; &#x2117; 2014 Sunshine and Frank</copyright>
+    <managingEditor>matt@sunshineandfrank.com (Matt)</managingEditor>
+    <webMaster>sunshineandfrank@mechinn.com (Michael Chinn)</webMaster>		
+    <itunes:subtitle>Rise and shine with Frank and the nerds</itunes:subtitle>
+    <itunes:author>Sunshine and Frank</itunes:author>
+    <description>Join us each week for our podcast where we discuss recent news in gaming and game development, with tangents into the wider body of geek culture.</description>
+    <itunes:owner>
+        <itunes:name>Michael Chinn</itunes:name>
+        <itunes:email>apple@mechinn.com</itunes:email>
+    </itunes:owner>
+    <image>
+        <url>http://sunshineandfrank.com/files/podcasts/cover.jpg</url>
+        <title>The Sunshine and Frank Program</title>
+        <link>http://sunshineandfrank.com/</link>
+    </image>
+    <itunes:image href="http://sunshineandfrank.com/files/podcasts/cover.jpg"/>
+    <itunes:image href="http://sunshineandfrank.com/files/podcasts/cover.jpg"/>
+    <itunes:category text="Games &amp; Hobbies">
+        <itunes:category text="Video Games"/>
+    </itunes:category>
+    <itunes:category text="TV &amp; Film"/>
+    <itunes:category text="Games &amp; Hobbies">
+        <itunes:category text="Hobbies"/>
+    </itunes:category>
+    <itunes:explicit>yes</itunes:explicit>
+    
+    
+    <item>
+      <title>37 - We&#39;re Not a Console...Yet...</title>
+      <itunes:author></itunes:author>
+      <itunes:summary>&lt;![CDATA[]></itunes:summary>
+      <enclosure url="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e37_WereNotAConsoleYet.mp3" length="" type="audio/x-m4a" />
+      <guid>http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e37_WereNotAConsoleYet.mp3</guid>
+      <link>http://geeksinprogress.com/episodes/episode-37/</link>
+      <pubDate>Tue, 05 Apr 2016 12:40:48 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    
+    
+    <item>
+      <title>36 - Oh God, You&#39;re Going to Be One of Those Smart House People!</title>
+      <itunes:author></itunes:author>
+      <itunes:summary>&lt;![CDATA[]></itunes:summary>
+      <enclosure url="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e36_SmartHousePeople.mp3" length="" type="audio/x-m4a" />
+      <guid>http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e36_SmartHousePeople.mp3</guid>
+      <link>http://geeksinprogress.com/episodes/episode-36/</link>
+      <pubDate>Mon, 14 Mar 2016 08:47:44 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    
+    
+    <item>
+      <title>35 - The Action Movie Schlock Version of World War I</title>
+      <itunes:author></itunes:author>
+      <itunes:summary>&lt;![CDATA[]></itunes:summary>
+      <enclosure url="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e35_SchlockVersionOfWWI.mp3" length="" type="audio/x-m4a" />
+      <guid>http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e35_SchlockVersionOfWWI.mp3</guid>
+      <link>http://geeksinprogress.com/episodes/episode-35/</link>
+      <pubDate>Mon, 29 Feb 2016 09:10:59 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    
+    
+    <item>
+      <title>34 - Galactic Ambulance</title>
+      <itunes:author></itunes:author>
+      <itunes:summary>&lt;![CDATA[]></itunes:summary>
+      <enclosure url="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e34_GalacticAmbulance.mp3" length="" type="audio/x-m4a" />
+      <guid>http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e34_GalacticAmbulance.mp3</guid>
+      <link>http://geeksinprogress.com/episodes/episode-34/</link>
+      <pubDate>Mon, 15 Feb 2016 05:34:46 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    
+    
+    <item>
+      <title>33 - This Podcast Is Worth...One Quarter Portion!</title>
+      <itunes:author></itunes:author>
+      <itunes:summary>&lt;![CDATA[]></itunes:summary>
+      <enclosure url="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e33_OneQuarterPortion.mp3" length="" type="audio/x-m4a" />
+      <guid>http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e33_OneQuarterPortion.mp3</guid>
+      <link>http://geeksinprogress.com/episodes/episode-33/</link>
+      <pubDate>Mon, 01 Feb 2016 05:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    
+    
+    <item>
+      <title>32 - We All Have Our Own Hole</title>
+      <itunes:author></itunes:author>
+      <itunes:summary>&lt;![CDATA[]></itunes:summary>
+      <enclosure url="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e32_E3_2015.mp3" length="" type="audio/x-m4a" />
+      <guid>http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e32_E3_2015.mp3</guid>
+      <link>http://geeksinprogress.com/episodes/episode-32/</link>
+      <pubDate>Mon, 29 Jun 2015 04:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    
+    
+    <item>
+      <title>31 - Blood, Sweat, and Midi-Chlorians</title>
+      <itunes:author></itunes:author>
+      <itunes:summary>&lt;![CDATA[]></itunes:summary>
+      <enclosure url="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e31_BloodSweatAndMidichlorians.mp3" length="" type="audio/x-m4a" />
+      <guid>http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e31_BloodSweatAndMidichlorians.mp3</guid>
+      <link>http://geeksinprogress.com/episodes/episode-31/</link>
+      <pubDate>Mon, 23 Feb 2015 05:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    
+    
+    <item>
+      <title>30 - He&#39;s Not Marvelous, He&#39;s DC&#39;ous</title>
+      <itunes:author></itunes:author>
+      <itunes:summary>&lt;![CDATA[]></itunes:summary>
+      <enclosure url="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e30_HeIsDCous.mp3" length="" type="audio/x-m4a" />
+      <guid>http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e30_HeIsDCous.mp3</guid>
+      <link>http://geeksinprogress.com/episodes/episode-30/</link>
+      <pubDate>Mon, 09 Feb 2015 05:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    
+    
+    <item>
+      <title>29 - That Time I Spent $65 on a Pretend Spaceship</title>
+      <itunes:author></itunes:author>
+      <itunes:summary>&lt;![CDATA[]></itunes:summary>
+      <enclosure url="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e29_65DollarPretendSpaceship.mp3" length="" type="audio/x-m4a" />
+      <guid>http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e29_65DollarPretendSpaceship.mp3</guid>
+      <link>http://geeksinprogress.com/episodes/episode-29/</link>
+      <pubDate>Mon, 26 Jan 2015 05:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    
+    
+    <item>
+      <title>28 - You, 3 Characters, and a Tree, and Some Stairs</title>
+      <itunes:author></itunes:author>
+      <itunes:summary>&lt;![CDATA[]></itunes:summary>
+      <enclosure url="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e28_2014InReview.mp3" length="" type="audio/x-m4a" />
+      <guid>http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e28_2014InReview.mp3</guid>
+      <link>http://geeksinprogress.com/episodes/episode-28/</link>
+      <pubDate>Mon, 05 Jan 2015 05:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    
+    
+    <item>
+      <title>27 - Games Were So Much Cooler When I Was 14</title>
+      <itunes:author></itunes:author>
+      <itunes:summary>&lt;![CDATA[]></itunes:summary>
+      <enclosure url="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e27_GamesWereMuchCooler.mp3" length="" type="audio/x-m4a" />
+      <guid>http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e27_GamesWereMuchCooler.mp3</guid>
+      <link>http://geeksinprogress.com/episodes/episode-27/</link>
+      <pubDate>Mon, 29 Dec 2014 05:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    
+    
+    <item>
+      <title>26 - I Give You the Jericho...Times Six!</title>
+      <itunes:author></itunes:author>
+      <itunes:summary>&lt;![CDATA[]></itunes:summary>
+      <enclosure url="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e26_IGiveYouTheJericho.mp3" length="" type="audio/x-m4a" />
+      <guid>http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e26_IGiveYouTheJericho.mp3</guid>
+      <link>http://geeksinprogress.com/episodes/episode-26/</link>
+      <pubDate>Mon, 22 Dec 2014 05:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    
+    
+    <item>
+      <title>25 - She&#39;s Learned How to Weaponize Her Aura</title>
+      <itunes:author></itunes:author>
+      <itunes:summary>&lt;![CDATA[]></itunes:summary>
+      <enclosure url="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e25_WeaponizedHerAura.mp3" length="" type="audio/x-m4a" />
+      <guid>http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e25_WeaponizedHerAura.mp3</guid>
+      <link>http://geeksinprogress.com/episodes/episode-25/</link>
+      <pubDate>Mon, 08 Dec 2014 05:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    
+    
+    <item>
+      <title>24 - Andy Dwyer, Dinosaur Hunter</title>
+      <itunes:author></itunes:author>
+      <itunes:summary>&lt;![CDATA[]></itunes:summary>
+      <enclosure url="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e24_AndyDwyerDinoHunter.mp3" length="" type="audio/x-m4a" />
+      <guid>http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e24_AndyDwyerDinoHunter.mp3</guid>
+      <link>http://geeksinprogress.com/episodes/episode-24/</link>
+      <pubDate>Mon, 01 Dec 2014 05:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    
+    
+    <item>
+      <title>23 - I AM the Boarding Craft!</title>
+      <itunes:author></itunes:author>
+      <itunes:summary>&lt;![CDATA[]></itunes:summary>
+      <enclosure url="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e23_IAmTheBoardingCraft.mp3" length="" type="audio/x-m4a" />
+      <guid>http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e23_IAmTheBoardingCraft.mp3</guid>
+      <link>http://geeksinprogress.com/episodes/episode-23/</link>
+      <pubDate>Mon, 24 Nov 2014 05:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    
+    
+    <item>
+      <title>22 - Sounds Like You Want to Go to a Rave, Dog</title>
+      <itunes:author></itunes:author>
+      <itunes:summary>&lt;![CDATA[]></itunes:summary>
+      <enclosure url="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e22_SoundsLikeYouWantToRave.mp3" length="" type="audio/x-m4a" />
+      <guid>http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e22_SoundsLikeYouWantToRave.mp3</guid>
+      <link>http://geeksinprogress.com/episodes/episode-22/</link>
+      <pubDate>Mon, 17 Nov 2014 05:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    
+    
+    <item>
+      <title>21 - I Fed Bananas to Homeless People</title>
+      <itunes:author></itunes:author>
+      <itunes:summary>&lt;![CDATA[]></itunes:summary>
+      <enclosure url="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e21_BananasToHomelessPeople.mp3" length="" type="audio/x-m4a" />
+      <guid>http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e21_BananasToHomelessPeople.mp3</guid>
+      <link>http://geeksinprogress.com/episodes/episode-21/</link>
+      <pubDate>Mon, 27 Oct 2014 04:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    
+    
+    <item>
+      <title>20 - Mikey, Just Keep Pressing B.</title>
+      <itunes:author></itunes:author>
+      <itunes:summary>&lt;![CDATA[]></itunes:summary>
+      <enclosure url="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e20_KeepPressingB.mp3" length="" type="audio/x-m4a" />
+      <guid>http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e20_KeepPressingB.mp3</guid>
+      <link>http://geeksinprogress.com/episodes/episode-20/</link>
+      <pubDate>Mon, 13 Oct 2014 04:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    
+    
+    <item>
+      <title>19 - Aragorn Effs Up Everything: The Game</title>
+      <itunes:author></itunes:author>
+      <itunes:summary>&lt;![CDATA[]></itunes:summary>
+      <enclosure url="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e19_AragornEffsUpEverything.mp3" length="" type="audio/x-m4a" />
+      <guid>http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e19_AragornEffsUpEverything.mp3</guid>
+      <link>http://geeksinprogress.com/episodes/episode-19/</link>
+      <pubDate>Mon, 06 Oct 2014 04:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    
+    
+    <item>
+      <title>18 - It&#39;s Developed by Astronauts</title>
+      <itunes:author></itunes:author>
+      <itunes:summary>&lt;![CDATA[]></itunes:summary>
+      <enclosure url="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e18_DevelopedByAstronauts.mp3" length="" type="audio/x-m4a" />
+      <guid>http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e18_DevelopedByAstronauts.mp3</guid>
+      <link>http://geeksinprogress.com/episodes/episode-18/</link>
+      <pubDate>Mon, 29 Sep 2014 04:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    
+    
+    <item>
+      <title>17 - One Star! One Star! Terrible Game!  AGHBFBPBP</title>
+      <itunes:author></itunes:author>
+      <itunes:summary>&lt;![CDATA[]></itunes:summary>
+      <enclosure url="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e17_OneStarOneStar.mp3" length="" type="audio/x-m4a" />
+      <guid>http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e17_OneStarOneStar.mp3</guid>
+      <link>http://geeksinprogress.com/episodes/episode-17/</link>
+      <pubDate>Mon, 22 Sep 2014 04:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    
+    
+    <item>
+      <title>16 - All the Cool Science Fiction Is From the 80s</title>
+      <itunes:author></itunes:author>
+      <itunes:summary>&lt;![CDATA[]></itunes:summary>
+      <enclosure url="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e16_ScienceFictionFromThe80s.mp3" length="" type="audio/x-m4a" />
+      <guid>http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e16_ScienceFictionFromThe80s.mp3</guid>
+      <link>http://geeksinprogress.com/episodes/episode-16/</link>
+      <pubDate>Mon, 08 Sep 2014 04:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    
+    
+    <item>
+      <title>15 - Damn It, Bobby! Shoulder Buttons?</title>
+      <itunes:author></itunes:author>
+      <itunes:summary>&lt;![CDATA[]></itunes:summary>
+      <enclosure url="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e15_ShoulderButtons.mp3" length="" type="audio/x-m4a" />
+      <guid>http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e15_ShoulderButtons.mp3</guid>
+      <link>http://geeksinprogress.com/episodes/episode-15/</link>
+      <pubDate>Sun, 31 Aug 2014 00:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    
+    
+    <item>
+      <title>14 - You Were the Dee Dee of the Campaign</title>
+      <itunes:author></itunes:author>
+      <itunes:summary>&lt;![CDATA[]></itunes:summary>
+      <enclosure url="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e14_YouWereTheDeeDee.mp3" length="" type="audio/x-m4a" />
+      <guid>http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e14_YouWereTheDeeDee.mp3</guid>
+      <link>http://geeksinprogress.com/episodes/episode-14/</link>
+      <pubDate>Sun, 24 Aug 2014 00:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    
+    
+    <item>
+      <title>13 - Put It on Auto-Horsey</title>
+      <itunes:author></itunes:author>
+      <itunes:summary>&lt;![CDATA[]></itunes:summary>
+      <enclosure url="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e13_PutItOnAutoHorsey.mp3" length="" type="audio/x-m4a" />
+      <guid>http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e13_PutItOnAutoHorsey.mp3</guid>
+      <link>http://geeksinprogress.com/episodes/episode-13/</link>
+      <pubDate>Sun, 17 Aug 2014 00:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    
+    
+    <item>
+      <title>12 - We Can&#39;t Confirm or Deny</title>
+      <itunes:author></itunes:author>
+      <itunes:summary>&lt;![CDATA[]></itunes:summary>
+      <enclosure url="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e12_WeCantConfirmOrDeny.mp3" length="" type="audio/x-m4a" />
+      <guid>http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e12_WeCantConfirmOrDeny.mp3</guid>
+      <link>http://geeksinprogress.com/episodes/episode-12/</link>
+      <pubDate>Sun, 10 Aug 2014 00:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    
+    
+    <item>
+      <title>10 - Being a Backwards Kid</title>
+      <itunes:author></itunes:author>
+      <itunes:summary>&lt;![CDATA[]></itunes:summary>
+      <enclosure url="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e10_BeingABackwardsKid.mp3" length="" type="audio/x-m4a" />
+      <guid>http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e10_BeingABackwardsKid.mp3</guid>
+      <link>http://geeksinprogress.com/episodes/episode-10/</link>
+      <pubDate>Sun, 27 Jul 2014 00:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    
+    
+    <item>
+      <title>9 - A Two Dollar Piece of Cardboard</title>
+      <itunes:author></itunes:author>
+      <itunes:summary>&lt;![CDATA[]></itunes:summary>
+      <enclosure url="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e09_TwoDollarCardboard.mp3" length="" type="audio/x-m4a" />
+      <guid>http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e09_TwoDollarCardboard.mp3</guid>
+      <link>http://geeksinprogress.com/episodes/episode-9/</link>
+      <pubDate>Sun, 20 Jul 2014 00:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    
+    
+    <item>
+      <title>8 - Bear Tactics</title>
+      <itunes:author></itunes:author>
+      <itunes:summary>&lt;![CDATA[]></itunes:summary>
+      <enclosure url="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e08_BearTactics.mp3" length="" type="audio/x-m4a" />
+      <guid>http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e08_BearTactics.mp3</guid>
+      <link>http://geeksinprogress.com/episodes/episode-8/</link>
+      <pubDate>Sun, 13 Jul 2014 00:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    
+    
+    <item>
+      <title>7 - A Very Obvious Skateboard Shaped Package</title>
+      <itunes:author></itunes:author>
+      <itunes:summary>&lt;![CDATA[]></itunes:summary>
+      <enclosure url="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e07_SkateboardShapedPackage.mp3" length="" type="audio/x-m4a" />
+      <guid>http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e07_SkateboardShapedPackage.mp3</guid>
+      <link>http://geeksinprogress.com/episodes/episode-7/</link>
+      <pubDate>Sun, 22 Jun 2014 00:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    
+    
+    <item>
+      <title>6 - You See That Mountain Over There? You Can Climb It!</title>
+      <itunes:author></itunes:author>
+      <itunes:summary>&lt;![CDATA[]></itunes:summary>
+      <enclosure url="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e06_E3_2014.mp3" length="" type="audio/x-m4a" />
+      <guid>http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e06_E3_2014.mp3</guid>
+      <link>http://geeksinprogress.com/episodes/episode-6/</link>
+      <pubDate>Sun, 15 Jun 2014 00:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    
+    
+    <item>
+      <title>5 - PrE3!</title>
+      <itunes:author></itunes:author>
+      <itunes:summary>&lt;![CDATA[]></itunes:summary>
+      <enclosure url="http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e05_PrE3.mp3" length="" type="audio/x-m4a" />
+      <guid>http://files.podcast.geeksinprogress.com/files/podcasts/1/s01e05_PrE3.mp3</guid>
+      <link>http://geeksinprogress.com/episodes/episode-5/</link>
+      <pubDate>Sun, 08 Jun 2014 00:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    
+    
+    <item>
+      <title>4 - It Might Be Your Mods!</title>
+      <itunes:author></itunes:author>
+      <itunes:summary>&lt;![CDATA[]></itunes:summary>
+      <enclosure url="http://files.podcast.geeksinprogress.com/files/podcasts/1/ItmightbeyourMods.mp3" length="" type="audio/x-m4a" />
+      <guid>http://files.podcast.geeksinprogress.com/files/podcasts/1/ItmightbeyourMods.mp3</guid>
+      <link>http://geeksinprogress.com/episodes/episode-4/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    
+    
+    <item>
+      <title>3 - Earn Your Way!</title>
+      <itunes:author></itunes:author>
+      <itunes:summary>&lt;![CDATA[]></itunes:summary>
+      <enclosure url="http://files.podcast.geeksinprogress.com/files/podcasts/1/EarnYourWay.mp3" length="" type="audio/x-m4a" />
+      <guid>http://files.podcast.geeksinprogress.com/files/podcasts/1/EarnYourWay.mp3</guid>
+      <link>http://geeksinprogress.com/episodes/episode-3/</link>
+      <pubDate>Mon, 26 May 2014 00:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    
+    
+    <item>
+      <title>2 - People Want Big!</title>
+      <itunes:author></itunes:author>
+      <itunes:summary>&lt;![CDATA[]></itunes:summary>
+      <enclosure url="http://files.podcast.geeksinprogress.com/files/podcasts/1/PeopleWantBig.mp3" length="" type="audio/x-m4a" />
+      <guid>http://files.podcast.geeksinprogress.com/files/podcasts/1/PeopleWantBig.mp3</guid>
+      <link>http://geeksinprogress.com/episodes/episode-2/</link>
+      <pubDate>Mon, 19 May 2014 00:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    
+    
+    <item>
+      <title>1 - Our Little Podcast!</title>
+      <itunes:author></itunes:author>
+      <itunes:summary>&lt;![CDATA[]></itunes:summary>
+      <enclosure url="http://files.podcast.geeksinprogress.com/files/podcasts/1/sunshineAndFrankEp1.mp3" length="" type="audio/x-m4a" />
+      <guid>http://files.podcast.geeksinprogress.com/files/podcasts/1/sunshineAndFrankEp1.mp3</guid>
+      <link>http://geeksinprogress.com/episodes/episode-1/</link>
+      <pubDate>Sun, 11 May 2014 00:00:00 +0000 </pubDate>
+      <itunes:duration></itunes:duration>
+    </item>
+    
+    
+  </channel>
+</rss>

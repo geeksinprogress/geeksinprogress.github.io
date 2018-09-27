@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Space Sims on Geeks in Progress</title>
+    <link>http://geeksinprogress.com/tags/space-sims/</link>
+    <description>Recent content in Space Sims on Geeks in Progress</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Geeks in Progress - All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 27 Jul 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://geeksinprogress.com/tags/space-sims/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Being A Backwards Kid</title>
+      <link>http://geeksinprogress.com/episodes/episode-10/</link>
+      <pubDate>Sun, 27 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-10/</guid>
+      <description>This week on Sunshine and Frank: The consoles can&amp;rsquo;t even handle Star Citizen, a new Thor hits comic books, Occulus Rift is a home for space sims, Super Smash Bros. characters get announced, and more.</description>
+    </item>
+    
+  </channel>
+</rss>

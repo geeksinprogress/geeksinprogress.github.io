@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elder Scrolls Online on Geeks in Progress</title>
+    <link>http://geeksinprogress.com/tags/elder-scrolls-online/</link>
+    <description>Recent content in Elder Scrolls Online on Geeks in Progress</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Geeks in Progress - All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 26 Jan 2015 05:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://geeksinprogress.com/tags/elder-scrolls-online/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>That Time I Spent $65 On A Pretend Spaceship</title>
+      <link>http://geeksinprogress.com/episodes/episode-29/</link>
+      <pubDate>Mon, 26 Jan 2015 05:00:00 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-29/</guid>
+      <description>This week on Sunshine and Frank: H1Z1 launches in Early Access, Matt starts a Star Citizen stream, Guild Wars 2 and FFXIV get expansions, Elder Scrolls Online goes buy-to-play; we discuss zombie survival games, betting in esports, and more.</description>
+    </item>
+    
+  </channel>
+</rss>

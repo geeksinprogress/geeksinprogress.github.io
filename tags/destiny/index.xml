@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Destiny on Geeks in Progress</title>
+    <link>http://geeksinprogress.com/tags/destiny/</link>
+    <description>Recent content in Destiny on Geeks in Progress</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Geeks in Progress - All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 29 Jun 2015 04:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://geeksinprogress.com/tags/destiny/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>We All Have Our Own Hole</title>
+      <link>http://geeksinprogress.com/episodes/episode-32/</link>
+      <pubDate>Mon, 29 Jun 2015 04:00:00 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-32/</guid>
+      <description>This week on Sunshine and Frank: E3 2015! Bethesda&amp;rsquo;s Fallout 4 gets annouced, Bungie&amp;rsquo;s announcement suffers fallout, Dishonoured 2 gets revealed, FFVII gets a remake, we (finally) get a glimpse at what the Division is all about, and more!</description>
+    </item>
+    
+    <item>
+      <title>You, 3 Characters, and a Tree, and Some Stairs</title>
+      <link>http://geeksinprogress.com/episodes/episode-28/</link>
+      <pubDate>Mon, 05 Jan 2015 05:00:00 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-28/</guid>
+      <description>This week on Sunshine and Frank: We discuss the games we enjoyed playing in 2014, and the games we look forward to playing in the near future.</description>
+    </item>
+    
+    <item>
+      <title>Aragorn Effs Up Everything: The Game</title>
+      <link>http://geeksinprogress.com/episodes/episode-19/</link>
+      <pubDate>Mon, 06 Oct 2014 04:00:00 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-19/</guid>
+      <description>This week on Sunshine and Frank: Matt loves Shadow of Mordor, Kurt plays Destiny, Microsoft demos &amp;ldquo;room alive&amp;rdquo;, Smash Bros. 4 is released and more!</description>
+    </item>
+    
+    <item>
+      <title>One Star! One Star! Terrible Game!  AGHBFBPBP</title>
+      <link>http://geeksinprogress.com/episodes/episode-17/</link>
+      <pubDate>Mon, 22 Sep 2014 04:00:00 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-17/</guid>
+      <description>This week on Sunshine and Frank: Microsoft buys Minecraft, Destiny and Archeage are released, Microsoft tests video games played from the web browser, and Guild Wars 2 releases its September 2014 Feature Pack.</description>
+    </item>
+    
+  </channel>
+</rss>

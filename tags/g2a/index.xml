@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G2a on Geeks in Progress</title>
+    <link>http://geeksinprogress.com/tags/g2a/</link>
+    <description>Recent content in G2a on Geeks in Progress</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Geeks in Progress - All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 14 Mar 2016 08:47:44 +0000</lastBuildDate>
+    
+	<atom:link href="http://geeksinprogress.com/tags/g2a/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Oh God, You&#39;re Going To Be One of Those Smart House People!</title>
+      <link>http://geeksinprogress.com/episodes/episode-36/</link>
+      <pubDate>Mon, 14 Mar 2016 08:47:44 +0000</pubDate>
+      
+      <guid>http://geeksinprogress.com/episodes/episode-36/</guid>
+      <description>This week on Geeks in Progress: Microsoft is ending its fixed console hardware, The Division launches, Everquest Next is cancelled, Guild Wars 2&amp;rsquo;s game director leaves the company, and more; we discuss key resellers, and progression systems.</description>
+    </item>
+    
+  </channel>
+</rss>
